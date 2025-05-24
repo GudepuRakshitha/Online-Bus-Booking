@@ -1,4 +1,4 @@
-# 🚌 Online Bus Booking System
+# Online Bus Booking System
 
 A backend-driven platform for seamless bus ticket booking, real-time availability tracking, route management, and secure user interaction.
 
